@@ -6,3 +6,6 @@ This a smooth fully responsive website where you can browse more than 1000+ exer
 You can choose exercises categories and specific muscle groups.
 You can check each exercise details with relative YouTube videos and similar exercises that target the same muscle and use the same equipment.
 
+### Check it out / Live website
+The app has been deployed on [Netlify](https://depalma-gym.netlify.app/)!
+Check it out now!
